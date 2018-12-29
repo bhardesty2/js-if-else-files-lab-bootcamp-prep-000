@@ -12,6 +12,6 @@ if (index.height === 70) {
     console.log("The height is correct")
 } else if {
     console.log("Expected: 70, Received: "+index.height)
-} else { 
+} else 
 
   c
